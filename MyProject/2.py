@@ -2,7 +2,7 @@ import telebot
 import requests
 
 
-bot = telebot.TeleBot('6520371815:AAFTMm4xiqNz0wS8BKdidPfI-cyl5z7NJKs')
+bot = telebot.TeleBot('6473924532:AAEuhs_ohhN1N17jixwPq4j55iVJl9Ga-qI')
 
 user_states = {}
 
