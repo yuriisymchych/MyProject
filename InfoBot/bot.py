@@ -1,8 +1,8 @@
 import telebot
-from MyProject.modules.weather_module import fetch_weather
-from MyProject.modules.exchange_rate_module import fetch_exchange_rates
-from MyProject.modules.crypto_rate_module import fetch_crypto_rates
-from MyProject.modules.donation_module import show_donation_menu, show_fund1_link, show_fund2_link, show_fund3_link
+from InfoBot.modules.weather_module import fetch_weather
+from InfoBot.modules.exchange_rate_module import fetch_exchange_rates
+from InfoBot.modules.crypto_rate_module import fetch_crypto_rates
+from InfoBot.modules.donation_module import show_donation_menu, show_fund1_link, show_fund2_link, show_fund3_link
 
 
 bot = telebot.TeleBot("6473924532:AAEuhs_ohhN1N17jixwPq4j55iVJl9Ga-qI")
